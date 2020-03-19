@@ -108,3 +108,18 @@ fabric.properties
 hs_err_pid*
 
 # End of https://www.gitignore.io/api/java,intellij
+/src/loose/oose/fis/documents/.Document.java.swp
+/src/loose/oose/fis/documents/.Document_BASE_1220.java.swp
+/src/loose/oose/fis/documents/.Document_LOCAL_1220.java.swp
+/src/loose/oose/fis/documents/.Document_REMOTE_1220.java.swp
+/src/loose/oose/fis/documents/Document_BACKUP_1220.java
+/src/loose/oose/fis/documents/Document_BASE_1220.java
+/src/loose/oose/fis/documents/Document_LOCAL_1220.java
+/src/loose/oose/fis/documents/Document_REMOTE_1220.java
+/src/loose/oose/fis/documents/.Document_BASE_1331.java.swp
+/src/loose/oose/fis/documents/.Document_LOCAL_1331.java.swp
+/src/loose/oose/fis/documents/.Document_REMOTE_1331.java.swp
+/src/loose/oose/fis/documents/Document_BACKUP_1331.java
+/src/loose/oose/fis/documents/Document_BASE_1331.java
+/src/loose/oose/fis/documents/Document_LOCAL_1331.java
+/src/loose/oose/fis/documents/Document_REMOTE_1331.java
