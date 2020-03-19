@@ -1,5 +1,6 @@
 package loose.oose.fis;
 
+import loose.oose.fis.documents.Afisare_Numarare;
 import loose.oose.fis.documents.Document;
 import loose.oose.fis.documents.JSON;
 import loose.oose.fis.documents.XML;
@@ -39,5 +40,6 @@ public class Main {
         pc2.adaugaProcesor(c3);
 
         System.out.println(pc2.proceseaza(documente));
+        Afisare_Numarare.ecgr2(1,5,6);
     }
 }
