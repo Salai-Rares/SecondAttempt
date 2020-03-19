@@ -17,4 +17,8 @@ public abstract class Document {
         }
         return res;
     }
+    public void AfisareY(){
+        System.out.println("Y");
+
+    }
 }
