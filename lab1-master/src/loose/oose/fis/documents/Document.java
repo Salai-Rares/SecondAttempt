@@ -13,7 +13,7 @@ public abstract class Document {
     public String toString() {
         String res = "";
         for (String cuvant : continut) {
-            res += cuvant + " "+"Prima schimbare la fisiser";
+            res += cuvant + " "+"A doua schimbare la fisiser"+"Nu stiu daca va functiona,Doamne ajuta";
         }
         return res;
     }
